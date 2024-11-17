@@ -1,6 +1,6 @@
 # PostgreSQL Practice Assignment
 
-This practice assignment is designed to help you practice various PostgreSQL clauses, constraints, joins, subqueries, and aggregations using the provided database schema.
+This practice assignment is designed to help practice various PostgreSQL clauses, constraints, joins, subqueries, and aggregations using the provided database schema.
 
 ## Database Schema
 
@@ -15,7 +15,7 @@ The database schema for this assignment consists of the following tables:
 
 ## Requirements
 
-Write the queries to perform these following actions:
+The queries to perform these following actions:
 
 In file `createDatabase.sql`, provide the following querries:
 
